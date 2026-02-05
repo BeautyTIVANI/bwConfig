@@ -1,0 +1,3 @@
+# Configuration file for Gig Wig Electronics
+# Created by [Your Name], [Date]
+timeout=45
